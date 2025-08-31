@@ -1,0 +1,21 @@
+{
+  "name": "wgen",
+  "version": "1.0.0",
+  "description": "&nbsp;/$$      /$$",
+  "main": "diccionario.js",
+  "dependencies": {
+    "ansi-regex": "^5.0.1",
+    "cli-progress": "^3.12.0",
+    "emoji-regex": "^8.0.0",
+    "is-fullwidth-code-point": "^3.0.0",
+    "string-width": "^4.2.3",
+    "strip-ansi": "^6.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

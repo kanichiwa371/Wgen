@@ -42,13 +42,13 @@ node wgen.js
 
 # One-line install & run
 
-npx github:kanichiwa371/wgen
+npx github:kanichiwa371/Wgen
 
 
 
 # Or install globally
 
-npm install -g github:kanichiwa371/wgen
+npm install -g github:kanichiwa371/Wgen
 
 wgen
 
@@ -60,7 +60,7 @@ wgen
 
 1\. Download and install \[Node.js](https://nodejs.org/)
 
-2\. Download the \[latest release](https://github.com/kanichiwa371/wgen/releases)
+2\. Download the \[latest release](https://github.com/kanichiwa371/Wgen/releases)
 
 3\. Extract ZIP file
 
@@ -98,7 +98,7 @@ node wgen.js
 
 ✅ Wordlist generated successfully
 
-📁 File: my\\\_wordlist.txt  
+📁 File: my_wordlist.txt  
 
 📊 Size: 150.25 MB
 
@@ -110,7 +110,7 @@ node wgen.js
 
 ## ⚠️ Legal Disclaimer
 
-This tool is intended for \*\*educational purposes and authorized penetration testing only\*\*. Never use it against systems you don't own or have explicit permission to test.
+This tool is intended for **educational purposes and authorized penetration testing only**. Never use it against systems you don't own or have explicit permission to test.
 
 
 

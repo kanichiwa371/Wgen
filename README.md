@@ -1,34 +1,26 @@
-\# 🔥 Wgen - Professional Wordlist Generator
+## ✨ Features
 
 
 
-Professional wordlist generator for cybersecurity and penetration testing. Capable of generating \*\*50+ million combinations\*\* with multiple patterns without consuming excessive RAM.
+- 🚀 \*\*50+ combination patterns\*\* (underscores, dots, hyphens, special chars)
+
+- 💾 \*\*Zero RAM consumption\*\* - Direct disk writing
+
+- 📊 \*\*Real-time progress bar\*\*
+
+- 🔢 \*\*Custom number ranges\*\* (0-9999+)
+
+- 🎯 \*\*58 patterns per iteration\*\*
+
+- ⚡ \*\*Fast and efficient\*\* generation
 
 
 
-\## ✨ Features
+## 🛠️ Installation
 
 
 
-\- 🚀 \*\*50+ combination patterns\*\* (underscores, dots, hyphens, special chars)
-
-\- 💾 \*\*Zero RAM consumption\*\* - Direct disk writing  
-
-\- 📊 \*\*Real-time progress bar\*\*
-
-\- 🔢 \*\*Custom number ranges\*\* (0-9999+)
-
-\- 🎯 \*\*58 patterns per iteration\*\*
-
-\- ⚡ \*\*Fast and efficient\*\* generation
-
-
-
-\## 🛠️ Installation
-
-
-
-\### Option 1: Clone Repository (Recommended)
+### Option 1: Clone Repository (Recommended)
 
 ```bash
 
@@ -40,93 +32,95 @@ npm install
 
 node wgen.js
 
-Option 2: Direct Install from GitHub
+```
 
-bash
 
-\# One-line install \& run
+
+### Option 2: Direct Install from GitHub
+
+```bash
+
+\\# One-line install \\\& run
 
 npx github:kanichiwa371/wgen
 
 
 
-\# Or install globally
+# Or install globally
 
 npm install -g github:kanichiwa371/wgen
 
 wgen
 
-Option 3: Manual Install
-
-Download and install Node.js
+```
 
 
 
-Download the latest release
+### Option 3: Manual Install
 
+1\. Download and install \[Node.js](https://nodejs.org/)
 
+2\. Download the \[latest release](https://github.com/kanichiwa371/wgen/releases)
 
-Extract ZIP file
+3\. Extract ZIP file
 
+4\. Open terminal in the folder and run:
 
-
-Open terminal in the folder and run:
-
-
-
-bash
+```bash
 
 npm install
 
 node wgen.js
 
-🚀 Usage
-
-Run the tool: node wgen.js
+```
 
 
 
-Enter words (max 10)
+## 🚀 Usage
 
 
 
-Set number range (default: 0-9999)
+1\. Run the tool: `node wgen.js`
+
+2\. Enter words (max 10)
+
+3\. Set number range (default: 0-9999)
+
+4\. Wait for generation
+
+5\. Choose filename
 
 
 
-Wait for generation
+## 📊 Example Output
 
-
-
-Choose filename
-
-
-
-📊 Example Output
-
-text
+```
 
 ✅ Wordlist generated successfully
 
-📁 File: my\_wordlist.txt
+📁 File: my\\\_wordlist.txt  
 
 📊 Size: 150.25 MB
 
 🔢 Estimated combinations: 7,512,500
 
-⚠️ Legal Disclaimer
-
-This tool is intended for educational purposes and authorized penetration testing only. Never use it against systems you don't own or have explicit permission to test.
+```
 
 
 
-📄 License
+## ⚠️ Legal Disclaimer
+
+This tool is intended for \*\*educational purposes and authorized penetration testing only\*\*. Never use it against systems you don't own or have explicit permission to test.
+
+
+
+## 📄 License
 
 MIT License - See LICENSE file for details
 
 
 
-🤝 Contributing
+## 🤝 Contributing
 
 Feel free to fork, modify, and improve this tool. Pull requests are welcome!
 

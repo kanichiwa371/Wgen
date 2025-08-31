@@ -2,17 +2,17 @@
 
 
 
-- 🚀 \*\*50+ combination patterns\*\* (underscores, dots, hyphens, special chars)
+- 🚀 **50+ combination patterns** (underscores, dots, hyphens, special chars)
 
-- 💾 \*\*Zero RAM consumption\*\* - Direct disk writing
+- 💾 **Zero RAM consumption** - Direct disk writing
 
-- 📊 \*\*Real-time progress bar\*\*
+- 📊 **Real-time progress bar**
 
-- 🔢 \*\*Custom number ranges\*\* (0-9999+)
+- 🔢 **Custom number ranges** (0-9999+)
 
-- 🎯 \*\*58 patterns per iteration\*\*
+- 🎯 **58 patterns per iteration**
 
-- ⚡ \*\*Fast and efficient\*\* generation
+- ⚡ **Fast and efficient** generation
 
 
 
@@ -40,7 +40,7 @@ node wgen.js
 
 ```bash
 
-\\# One-line install \\\& run
+# One-line install & run
 
 npx github:kanichiwa371/wgen
 

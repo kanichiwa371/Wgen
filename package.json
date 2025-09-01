@@ -2,7 +2,7 @@
   "name": "wgen",
   "version": "1.0.0",
   "description": "&nbsp;/$$      /$$",
-  "main": "diccionario.js",
+  "main": "wgen.js",
   "dependencies": {
     "ansi-regex": "^5.0.1",
     "cli-progress": "^3.12.0",
